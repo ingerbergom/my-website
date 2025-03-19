@@ -1,0 +1,14 @@
+---
+title: "My Website"
+date: today
+date-format: "MMMM YYYY"
+author: Inger Bergom
+format: 
+  html:
+    toc: true
+editor: visual
+execute:
+  warning: false
+---
+
+Welcome to my website!
