@@ -2,8 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My Website",
+    "title": "Inger Bergom, PhD",
     "section": "",
-    "text": "Welcome to my website!"
+    "text": "Welcome to my website!\n(It’s a work in progress.)\nI’m a higher ed researcher and enthusiast: I love the transformative power of higher education–transforming knowledge, careers, thinking, knowledge, and the world. I also love to study how it all works: how we create environments, communities, and processes that help people become their best selves through higher education.\nI also love building and creating things. Earlier in my life, this manifested in writing music. Now, I’ve learned that I can build and create with data! What I mean by that is this: building and creating tools, systems, and visualizations that help people make sense of lots of information. Turns out that music composition shares a lot in common with building data tools: both are about creating order from chaos and generating a product that inspires transformation.\nToday I feel lucky that I can merge my research background with my creative side. I use my knowledge of higher education and research methods to understand what’s happening at a university, then I build something that helps other people make sense of it, too. That “something” could be a written report, interactive dashboard, data visualization, an app, or whatever! I get excited thinking about the creative possibilities for generating and delivering a meaningful product for people to use. And, just like with music composition, I am motivated by the endless learning opportunities along the way to creating something beautiful."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Inger Bergom, PhD",
+    "section": "",
+    "text": "Some Things About Me\nEducation highlights:\n\nFor undergrad, I went to Grinnell College and majored in music and gender and women’s studies.\nThen I studied music composition with Michael Schelle and Frank Felice at Butler University.\nSoon after that, I completed a master’s in Higher Education at the Center for the Study of Higher and Postsecondary Education (CSHPE) at the University of Michigan. Worked at the amazing Center for the Study of Learning and Teaching for about a year, then attended CSHPE again, but this time as a PhD student.\nLately, I’ve been taking a series of excellent computer science courses at Harvard’s Division of Continuing Education.\nI’ve also been on the teaching side of things a bit: I taught Organizational Leadership and Management in Higher Education at Merrimack College, and I’m currently a Teaching Fellow for Carrie Conaway’s Making Data Count at the Harvard Graduate School of Education."
+  },
+  {
+    "objectID": "music.html",
+    "href": "music.html",
+    "title": "Inger Bergom, PhD",
+    "section": "",
+    "text": "(It’s a work in progress.)"
   }
 ]
