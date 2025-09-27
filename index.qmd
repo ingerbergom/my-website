@@ -11,7 +11,7 @@ Welcome to my website!
 
 (It's a work in progress.)
 
-I'm a higher ed researcher and enthusiast. I love the transformative power of higher education, transforming knowledge, careers, thinking, knowledge, and the world. I also love to study how it all works: how we create environments, communities, and processes that help people become their best selves through higher education.
+I'm a higher ed researcher and enthusiast. I love higher education's power to transform knowledge, careers, relationships, ways of thinking, and the world. I also love to study how it all works: how we create environments, communities, and processes that help people become their best selves through higher education.
 
 I *also* love building and creating things. Earlier in my life, this manifested in writing music. Now, I've learned that I can build and create with data! What I mean by that is this: building and creating tools, systems, and visualizations that help people make sense of lots of information. Turns out that music composition shares a lot in common with building data tools: both are about creating order from chaos and generating a product that inspires transformation.
 
