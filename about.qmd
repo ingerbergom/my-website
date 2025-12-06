@@ -4,17 +4,15 @@
 
 Education highlights:
 
-- I graduated from [Grinnell College](https://www.grinnell.edu/) and majored in music and gender and women's studies. 
+- I graduated from [Grinnell College](https://www.grinnell.edu/) and majored in music and gender and women's studies then had the privilege of studying music composition with [Michael Schelle](http://www.schellemusic.com/2.html) and [Frank Felice](https://www.frank-felice.com/) at [Butler University](https://www.butler.edu/). Other important mentors and teachers on my composing journey were [John Rommereim](https://www.johnrommereim.com), [Jonathan Chenette](https://www.vassar.edu/faculty/emeriti/jochenette), and [Vin Shende](https://www.bowdoin.edu/profiles/faculty/vshende/index.html).
 
-- Then I had the privilege of studying music composition with [Michael Schelle](http://www.schellemusic.com/2.html) and [Frank Felice](https://www.frank-felice.com/) at [Butler University](https://www.butler.edu/). Other important mentors and teachers on my composing journey were [John Rommereim](https://www.johnrommereim.com), [Jonathan Chenette](https://www.vassar.edu/faculty/emeriti/jochenette), and [Vin Shende](https://www.bowdoin.edu/profiles/faculty/vshende/index.html).
+- I completed Master's in Higher Education at the Center for the Study of Higher and Postsecondary Education [(CSHPE)](https://marsal.umich.edu/academics-admissions/cshpe) at the [University of Michigan](https://umich.edu/), then worked at the amazing [Center for the Study of Learning and Teaching](https://crlt.umich.edu/) for a year. I attended CSHPE again, this time as a PhD student. My higher ed heroes and mentors have included Mary Wright, Lisa Lattuca, Jan Lawrence, Pat King, Steve DesJardins, Don Freeman, and Constance Ewing Cook, along with brilliant peers and colleagues like Esther Enright, Emily House, Allyson Flaster, Matt Holsapple, Hyunny Ro, and so many more inspiring, dedicated leaders in education.
 
-- Soon after that, I completed a master's in Higher Education at the Center for the Study of Higher and Postsecondary Education [(CSHPE)](https://marsal.umich.edu/academics-admissions/cshpe) at the [University of Michigan](https://umich.edu/). Worked at the amazing [Center for the Study of Learning and Teaching](https://crlt.umich.edu/) for about a year, then attended CSHPE again, this time as a PhD student. My heroes and mentors included (but were not limited to) Mary Wright, Lisa Lattuca, Jan Lawrence, Pat King, Steve DesJardins, Don Freeman, and Constance Ewing Cook, along with brilliant peers and colleagues like Esther Enright, Emily House, Allyson Flaster, Matt Holsapple, Hyunny Ro, and so many more inspiring, dedicated leaders in education.
-
-- My professional career has expanded recently to data science and all things data. I am grateful to be able to explore this space and how data science and institutional analytics further the mission of higher education. I've had the chance to take some excellent computing and data science courses at Harvard's [Division of Continuing Education](https://dce.harvard.edu/), including: 
+- My professional career has expanded to data science and all things data. I am grateful to be able to explore this space and how data science and institutional analytics support the mission of higher education. To sharpen my skills, I've had the chance to take excellent computing and data science courses at Harvard's [Division of Continuing Education](https://dce.harvard.edu/), including: 
     - Data Modeling
     - Cloud Services, Infrastructure and Computing
     - Programming in R
     - Designing and Developing Relational and NoSQL Databases
-    - Introduction to Databases with SQL
+    - [Introduction to Databases with SQL](https://cs50.harvard.edu/sql/)
 
 - I've also enjoying being on the teaching side of things a bit: I taught *Organizational Leadership and Management in Higher Education* at [Merrimack College](https://www.merrimack.edu/) and was a Teaching Fellow for [Carrie Conaway's](https://www.gse.harvard.edu/directory/faculty/carrie-conaway) [*Making Data Count*](https://beta.my.harvard.edu/course/EDUS057/2025-Spring/01) at the [Harvard Graduate School of Education](https://www.gse.harvard.edu/).
